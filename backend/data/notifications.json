@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1784131183939,
+    "title": "Approved",
+    "message": "Invoice INV-1784131162916 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T15:59:43.939Z",
+    "isRead": true
+  },
+  {
+    "id": 1784131180935,
+    "title": "Human Review",
+    "message": "Invoice INV-1784131162916 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T15:59:40.935Z",
+    "isRead": false
+  },
+  {
+    "id": 1784131177929,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784131162916 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T15:59:37.929Z",
+    "isRead": false
+  },
+  {
+    "id": 1784131174933,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784131162916 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T15:59:34.933Z",
+    "isRead": false
+  },
+  {
+    "id": 1784131171929,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784131162916 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T15:59:31.929Z",
+    "isRead": false
+  },
+  {
+    "id": 1784131168932,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784131162916 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T15:59:28.932Z",
+    "isRead": false
+  },
+  {
+    "id": 1784131165935,
+    "title": "Processing",
+    "message": "Invoice INV-1784131162916 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T15:59:25.935Z",
+    "isRead": false
+  },
+  {
+    "id": 1784121958234,
+    "title": "Approved",
+    "message": "Invoice INV-1784121937219 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:25:58.234Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121955230,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121937219 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:25:55.230Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121952233,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121937219 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:25:52.233Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121949231,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121937219 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:25:49.231Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121946229,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121937219 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:25:46.229Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121943228,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121937219 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:25:43.228Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121940259,
+    "title": "Processing",
+    "message": "Invoice INV-1784121937219 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:25:40.259Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121900007,
+    "title": "Approved",
+    "message": "Invoice INV-1784121878992 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:25:00.008Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121897014,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121878992 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:57.014Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121894012,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121878992 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:54.012Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121891007,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121878992 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:51.007Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121888008,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121878992 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:48.008Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121885001,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121878992 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:45.001Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121882034,
+    "title": "Processing",
+    "message": "Invoice INV-1784121878992 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:42.034Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121852650,
+    "title": "Approved",
+    "message": "Invoice INV-1784121831643 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:24:12.650Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121849664,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121831643 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:09.664Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121846652,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121831643 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:06.652Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121843663,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121831643 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:03.663Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121840656,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121831643 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:24:00.656Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121837656,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121831643 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:23:57.656Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121834659,
+    "title": "Processing",
+    "message": "Invoice INV-1784121831643 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:23:54.659Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121782634,
+    "title": "Approved",
+    "message": "Invoice INV-1784121761594 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:23:02.634Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121779644,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121761594 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:22:59.644Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121776607,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121761594 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:22:56.607Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121773606,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121761594 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:22:53.606Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121770601,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121761594 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:22:50.601Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121767610,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121761594 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:22:47.610Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121764605,
+    "title": "Processing",
+    "message": "Invoice INV-1784121761594 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:22:44.605Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121674811,
+    "title": "Approved",
+    "message": "Invoice INV-1784121653802 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:21:14.811Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121671820,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121653802 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:21:11.820Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121668820,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121653802 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:21:08.820Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121665828,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121653802 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:21:05.828Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121662812,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121653802 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:21:02.812Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121659808,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121653802 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:20:59.808Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121656812,
+    "title": "Processing",
+    "message": "Invoice INV-1784121653802 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:20:56.812Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121583931,
+    "title": "Approved",
+    "message": "Invoice INV-1784121562924 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:19:43.931Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121580944,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121562924 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:19:40.944Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121577939,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121562924 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:19:37.939Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121574935,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121562924 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:19:34.935Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121571938,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121562924 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:19:31.938Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121568939,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121562924 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:19:28.939Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121565942,
+    "title": "Processing",
+    "message": "Invoice INV-1784121562924 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:19:25.942Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121362261,
+    "title": "Approved",
+    "message": "Invoice INV-1784121341241 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T13:16:02.261Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121359259,
+    "title": "Human Review",
+    "message": "Invoice INV-1784121341241 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:15:59.259Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121356263,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784121341241 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:15:56.263Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121353259,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784121341241 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:15:53.259Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121350265,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784121341241 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:15:50.265Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121347261,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784121341241 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:15:47.261Z",
+    "isRead": true
+  },
+  {
+    "id": 1784121344272,
+    "title": "Processing",
+    "message": "Invoice INV-1784121341241 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T13:15:44.272Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107330431,
+    "title": "Approved",
+    "message": "Invoice INV-1784107309418 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T09:22:10.431Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107327427,
+    "title": "Human Review",
+    "message": "Invoice INV-1784107309418 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T09:22:07.427Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107324426,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784107309418 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T09:22:04.426Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107321430,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784107309418 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T09:22:01.430Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107318428,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784107309418 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T09:21:58.428Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107315427,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784107309418 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T09:21:55.427Z",
+    "isRead": true
+  },
+  {
+    "id": 1784107312429,
+    "title": "Processing",
+    "message": "Invoice INV-1784107309418 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T09:21:52.429Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105788746,
+    "title": "Approved",
+    "message": "Invoice INV-1784105767731 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T08:56:28.746Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105785748,
+    "title": "Human Review",
+    "message": "Invoice INV-1784105767731 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:56:25.748Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105782743,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784105767731 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:56:22.743Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105779733,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784105767731 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:56:19.733Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105776740,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784105767731 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:56:16.740Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105773748,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784105767731 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:56:13.748Z",
+    "isRead": true
+  },
+  {
+    "id": 1784105770739,
+    "title": "Processing",
+    "message": "Invoice INV-1784105767731 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:56:10.739Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103696810,
+    "title": "Approved",
+    "message": "Invoice INV-1784103675799 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T08:21:36.810Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103693816,
+    "title": "Human Review",
+    "message": "Invoice INV-1784103675799 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:21:33.816Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103690809,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784103675799 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:21:30.809Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103687815,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784103675799 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:21:27.815Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103684804,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784103675799 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:21:24.804Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103681818,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784103675799 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:21:21.818Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103678811,
+    "title": "Processing",
+    "message": "Invoice INV-1784103675799 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:21:18.811Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103306672,
+    "title": "Approved",
+    "message": "Invoice INV-1784103285650 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T08:15:06.672Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103303659,
+    "title": "Human Review",
+    "message": "Invoice INV-1784103285650 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:15:03.659Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103300660,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784103285650 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:15:00.660Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103297670,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784103285650 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:14:57.670Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103294670,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784103285650 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:14:54.670Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103291654,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784103285650 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:14:51.654Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103288662,
+    "title": "Processing",
+    "message": "Invoice INV-1784103285650 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:14:48.662Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103221663,
+    "title": "Approved",
+    "message": "Invoice INV-1784103200659 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T08:13:41.663Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103218667,
+    "title": "Human Review",
+    "message": "Invoice INV-1784103200659 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:13:38.667Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103215665,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784103200659 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:13:35.665Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103212662,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784103200659 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:13:32.662Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103209673,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784103200659 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:13:29.673Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103206674,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784103200659 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:13:26.674Z",
+    "isRead": true
+  },
+  {
+    "id": 1784103203668,
+    "title": "Processing",
+    "message": "Invoice INV-1784103200659 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:13:23.668Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102977364,
+    "title": "Approved",
+    "message": "Invoice INV-1784102956356 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T08:09:37.364Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102974368,
+    "title": "Human Review",
+    "message": "Invoice INV-1784102956356 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:09:34.368Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102971362,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784102956356 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:09:31.362Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102968376,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784102956356 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:09:28.376Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102965369,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784102956356 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:09:25.369Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102962363,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784102956356 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:09:22.363Z",
+    "isRead": true
+  },
+  {
+    "id": 1784102959369,
+    "title": "Processing",
+    "message": "Invoice INV-1784102956356 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T08:09:19.369Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101281095,
+    "title": "Approved",
+    "message": "Invoice INV-1784101260052 moved to Approved.",
+    "type": "success",
+    "createdAt": "2026-07-15T07:41:21.095Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101278072,
+    "title": "Human Review",
+    "message": "Invoice INV-1784101260052 moved to Human Review.",
+    "type": "info",
+    "createdAt": "2026-07-15T07:41:18.072Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101275059,
+    "title": "Validation Complete",
+    "message": "Invoice INV-1784101260052 moved to Validation Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T07:41:15.059Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101272066,
+    "title": "Extraction Complete",
+    "message": "Invoice INV-1784101260052 moved to Extraction Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T07:41:12.066Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101269072,
+    "title": "PII Masked",
+    "message": "Invoice INV-1784101260052 moved to PII Masked.",
+    "type": "info",
+    "createdAt": "2026-07-15T07:41:09.072Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101266067,
+    "title": "OCR Complete",
+    "message": "Invoice INV-1784101260052 moved to OCR Complete.",
+    "type": "info",
+    "createdAt": "2026-07-15T07:41:06.067Z",
+    "isRead": true
+  },
+  {
+    "id": 1784101263064,
+    "title": "Processing",
+    "message": "Invoice INV-1784101260052 moved to Processing.",
+    "type": "info",
+    "createdAt": "2026-07-15T07:41:03.064Z",
+    "isRead": true
+  }
+]

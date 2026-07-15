@@ -1,16 +1,4 @@
 @import "tailwindcss";
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Inter, Arial, sans-serif;
-  background: #f8fafc;
-}
-
-#root {
-  min-height: 100vh;
-}
+/* Enable class-based dark mode */
+@custom-variant dark (&:where(.dark, .dark *));

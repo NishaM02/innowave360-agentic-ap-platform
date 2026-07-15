@@ -2,8 +2,12 @@ const express = require("express");
 
 const router = express.Router();
 
-router.get("/", (req, res) => {
-  res.json([]);
-});
+const {
+  getNotifications,
+   markAsRead,
+} = require("../controllers/notificationController");
+
+router.get("/", getNotifications);
+router.put("/:id/read", markAsRead);
 
 module.exports = router;

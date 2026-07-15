@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1784109060482,
+    "vendorName": "test data new",
+    "vendorCode": "7w39938",
+    "gstNumber": "jsjd993",
+    "panNumber": "8ndjhabja",
+    "email": "admin@gmail.com",
+    "phone": "7795049256",
+    "country": "India",
+    "status": "Active",
+    "createdAt": "2026-07-15T09:51:00.482Z"
+  },
+  {
+    "id": 1784110676600,
+    "vendorName": "abc",
+    "vendorCode": "8899",
+    "gstNumber": "huusuus",
+    "panNumber": "njsj898989",
+    "email": "admin@gmail.com",
+    "phone": "07795049256",
+    "country": "UK",
+    "status": "Active",
+    "createdAt": "2026-07-15T10:17:56.600Z"
+  },
+  {
+    "id": 1784111122287,
+    "vendorName": "ukhj",
+    "vendorCode": "3999393",
+    "gstNumber": "3839893",
+    "panNumber": "3899983",
+    "email": "sana@gmail.com",
+    "phone": "07795049256",
+    "country": "USA",
+    "status": "Active",
+    "createdAt": "2026-07-15T10:25:22.287Z"
+  },
+  {
+    "id": 1784111226940,
+    "vendorName": "qyu",
+    "vendorCode": "092992",
+    "gstNumber": "3u9993",
+    "panNumber": "3444",
+    "email": "nishs239@gmail.com",
+    "phone": "01234567893",
+    "country": "USA",
+    "status": "Active",
+    "createdAt": "2026-07-15T10:27:06.940Z"
+  },
+  {
+    "id": 1784111278121,
+    "vendorName": "iqq",
+    "vendorCode": "39993",
+    "gstNumber": "huusuus",
+    "panNumber": "892992",
+    "email": "abca@gmail.com",
+    "phone": "01234567891",
+    "country": "India",
+    "status": "Active",
+    "createdAt": "2026-07-15T10:27:58.121Z"
+  }
+]

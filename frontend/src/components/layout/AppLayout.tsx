@@ -1,36 +1,39 @@
+import { useState } from "react";
 import { Outlet } from "react-router-dom";
 import Sidebar from "./Sidebar";
 import Topbar from "./Topbar";
 
 export default function AppLayout() {
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+
   return (
-    <div
-      style={{
-        display: "flex",
-        minHeight: "100vh",
-      }}
-    >
-      <Sidebar />
+    <div className="flex h-screen bg-slate-50 text-slate-900 transition-colors duration-300 dark:bg-slate-950 dark:text-white">
 
-      <div
-        style={{
-          flex: 1,
-          display: "flex",
-          flexDirection: "column",
-        }}
-      >
-        <Topbar />
+      {/* Sidebar */}
+      <Sidebar
+        isOpen={sidebarOpen}
+        onClose={() => setSidebarOpen(false)}
+      />
 
-        <main
-          style={{
-            padding: "24px",
-            flex: 1,
-            background: "#f8fafc",
-          }}
-        >
-          <Outlet />
+      {/* Main */}
+      <div className="flex flex-1 flex-col lg:ml-72">
+
+        {/* Topbar */}
+        <Topbar
+          onMenuClick={() => setSidebarOpen(true)}
+        />
+
+        {/* Content */}
+        <main className="mt-20 flex-1 overflow-y-auto bg-slate-50 px-4 py-6 transition-colors duration-300 dark:bg-slate-950 md:px-6 lg:px-8">
+
+          <div className="mx-auto w-full max-w-7xl">
+            <Outlet />
+          </div>
+
         </main>
+
       </div>
+
     </div>
   );
 }
